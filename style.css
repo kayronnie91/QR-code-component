@@ -1,5 +1,6 @@
 body {
   background-color: #d5e1ef;
+  font-family: "Outfit", sans-serif;
 }
 
 main {
@@ -18,4 +19,7 @@ main {
   margin: 20px;
   padding: 20px;
   flex-direction: column;
+}
+.short-para {
+  font-weight: 400;
 }
